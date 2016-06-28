@@ -1,0 +1,1 @@
+Now it’s time to think carefully about what you have learned in the earlier lessons about the features, advantages and disadvantages of optical, magnetic and solid state storage and use the information to help you answer the following questions:   

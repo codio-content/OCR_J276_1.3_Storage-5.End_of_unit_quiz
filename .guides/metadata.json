@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "id": "ffcec00a-3431-47e1-2292-f2f408fae8f6",
+   "title": "End of unit test",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/End-of-unit-test-ffce.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d040c564-4593-e739-1d64-8b33d5670d71",
+   "title": "Section 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Section-2-d040.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
