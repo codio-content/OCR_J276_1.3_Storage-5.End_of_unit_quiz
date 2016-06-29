@@ -1,0 +1,410 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-460861326",
+  "source": {
+   "name": "Question 1: Which one of the following describes devices that hold data?",
+   "showName": false,
+   "instructions": "**Question 1: Which one of the following describes devices that hold data?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Capacity",
+     "correct": false,
+     "_id": "fa20cfed-5494-cef7-f559-59b47d761c72"
+    },
+    {
+     "answer": "Exabyte",
+     "correct": false,
+     "_id": "b6d33390-d65e-fc16-f334-18f131c0e4eb"
+    },
+    {
+     "correct": true,
+     "answer": "Storage media",
+     "_id": "b9bd93cf-bbee-5ca2-1fb5-83501149a123"
+    },
+    {
+     "answer": "Storage medium",
+     "correct": false,
+     "_id": "d53e18cf-b760-527a-2565-a83a6dd9b51e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2300852307",
+  "source": {
+   "name": "Question 2: Which one of the following describes primary storage?",
+   "showName": false,
+   "instructions": "**Question 2: Which one of the following describes primary storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Portability",
+     "correct": false,
+     "_id": "a8d3faa5-b89e-809c-2b0c-5806b213d743"
+    },
+    {
+     "answer": "Non-volatile",
+     "correct": false,
+     "_id": "1efbe3d0-1efc-49b4-fa5a-f6b8fbf0d2e2"
+    },
+    {
+     "answer": "Data capacity",
+     "correct": false,
+     "_id": "df294589-969a-2c12-12e1-fa56a0967b6a"
+    },
+    {
+     "correct": true,
+     "answer": "Volatile",
+     "_id": "affad35e-c683-4e8f-24cb-dddc90c4725e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1428307023",
+  "source": {
+   "name": "Question 3: Which one of the following statements explains what non-volatile means?",
+   "showName": false,
+   "instructions": "**Question 3: Which one of the following statements explains what non-volatile means?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "When a computing device is switched off, data is changed",
+     "correct": false,
+     "_id": "40421374-042a-7194-771a-dae0fb5907ef"
+    },
+    {
+     "answer": "When a computing device is switched off, data is not stored",
+     "correct": false,
+     "_id": "c029a928-5b78-e64e-3b69-be029ae6a678"
+    },
+    {
+     "answer": "When a computing device is switched off, data is accessible",
+     "correct": false,
+     "_id": "5c17901a-7ef4-4b6c-843c-e2755cacc6bd"
+    },
+    {
+     "correct": true,
+     "answer": "When a computing device is switched off, data is stored",
+     "_id": "f4b9c96e-29c3-305d-ab29-c1e1e20f1b39"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1229766947",
+  "source": {
+   "name": "Question 4: Which two of the following are examples of portable storage devices?",
+   "showName": false,
+   "instructions": "**Question 4: Which two of the following are examples of portable storage devices?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "Database",
+     "correct": false,
+     "_id": "545e319b-ccfa-d3d3-956c-169fee3bf350"
+    },
+    {
+     "correct": true,
+     "answer": "External disk drive",
+     "_id": "6af06f86-4660-d4b0-6f6e-d1cfc0b75fbf"
+    },
+    {
+     "answer": "Hard disk",
+     "correct": false,
+     "_id": "a066cca2-c964-a834-eb1e-db1c1030a8f1"
+    },
+    {
+     "correct": true,
+     "answer": "Memory stick",
+     "_id": "fa7181bf-321f-281f-ffe2-72a84d5a48bc"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2630472247",
+  "source": {
+   "name": "Question 5: Which two of the following are features of storage media?",
+   "showName": false,
+   "instructions": "**Question 5: Which two of the following are features of storage media?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "Weight",
+     "correct": false,
+     "_id": "e7600a86-9dc7-3e2a-4676-f80857077452"
+    },
+    {
+     "answer": "Density",
+     "correct": false,
+     "_id": "0e75e819-6e76-7950-efe4-c190d7412745"
+    },
+    {
+     "correct": true,
+     "answer": "Capacity",
+     "_id": "f36ccbed-5199-22bf-aa9c-73493949d6fa"
+    },
+    {
+     "correct": true,
+     "answer": "Durability",
+     "_id": "d1be0392-05b0-44af-a073-2a67e52b66f0"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3684237193",
+  "source": {
+   "name": "Question 6: Which one of the following is the largest unit of data?",
+   "showName": false,
+   "instructions": "**Question 6: Which one of the following is the largest unit of data?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Nibble",
+     "correct": false,
+     "_id": "ac639272-6df8-c255-a5eb-753f26e1c585"
+    },
+    {
+     "answer": "Byte",
+     "correct": false,
+     "_id": "6dfd0ebd-5e05-9dfd-38ea-3b4a60e0e4fa"
+    },
+    {
+     "correct": true,
+     "answer": "Gigabyte",
+     "_id": "ff76ade7-3c8d-5246-07fa-bf1623b19358"
+    },
+    {
+     "answer": "Megabyte",
+     "correct": false,
+     "_id": "59bd9504-0fbf-2fae-b99c-80644738621e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2825493810",
+  "source": {
+   "name": "Question 7: Which one of the following statements is correct?",
+   "showName": false,
+   "instructions": "**Question 7: Which one of the following statements is correct?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "A terabyte is equivalent to 1000/10024 bytes",
+     "correct": false,
+     "_id": "489e544f-717a-2067-118c-bd391a2ebc81"
+    },
+    {
+     "answer": "A terabyte is equivalent to 100 gigabytes",
+     "correct": false,
+     "_id": "b4e1b3b7-1f41-d346-2d68-fc0db8c127ba"
+    },
+    {
+     "correct": true,
+     "answer": "A terabyte is equivalent to 1000/10024 gigabytes",
+     "_id": "18478c8c-3450-023e-aaf9-4c013c4097f5"
+    },
+    {
+     "answer": "A terabyte is equivalent to 1000/10024 exabytes",
+     "correct": false,
+     "_id": "541bd7fd-fa10-2b44-a073-9a5b8a86ab5e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3175394603",
+  "source": {
+   "name": "Question 8: Which one of the following storage media enables the fastest access to data?",
+   "showName": false,
+   "instructions": "**Question 8: Which one of the following storage media enables the fastest access to data?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Magnetic tape",
+     "correct": false,
+     "_id": "f709b17d-be0d-586d-ccc7-b62dacbd00f7"
+    },
+    {
+     "correct": true,
+     "answer": "Solid state disk",
+     "_id": "5861b51f-af43-a73c-0e01-19b878aec753"
+    },
+    {
+     "answer": "Keyboard",
+     "correct": false,
+     "_id": "078ea735-615b-1472-e578-86891f0902cb"
+    },
+    {
+     "answer": "Magnetic hard disk",
+     "correct": false,
+     "_id": "3f9d8ea7-4f31-609d-b75a-f8d6814e181f"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1439549675",
+  "source": {
+   "name": "Question 9: Which one of the following storage media is the most durable?",
+   "showName": false,
+   "instructions": "**Question 9: Which one of the following storage media is the most durable?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Blu-ray",
+     "correct": false,
+     "_id": "d78d420d-b18c-5deb-b18e-f298f1b95f64"
+    },
+    {
+     "answer": "DVD",
+     "correct": false,
+     "_id": "597f7adb-d4e2-d2a4-c618-fabe837c1632"
+    },
+    {
+     "answer": "CD",
+     "correct": false,
+     "_id": "83a29c2f-ae96-60f1-8ccd-cf4ca611d4bc"
+    },
+    {
+     "correct": true,
+     "answer": "Solid state disk",
+     "_id": "8024557c-3fe6-0421-9dc5-b5cf61fc5354"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1577114753",
+  "source": {
+   "name": "Question 10: Which one of the following storage media is the cheapest to buy?",
+   "showName": false,
+   "instructions": "**Question 10: Which one of the following storage media is the cheapest to buy?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Megabyte",
+     "correct": false,
+     "_id": "94a532be-93d8-aa3d-af6f-60e37380e49f"
+    },
+    {
+     "answer": "Terabyte",
+     "correct": false,
+     "_id": "a1c81830-15f3-24b5-8958-4d276d2b8c36"
+    },
+    {
+     "answer": "Solid state disk",
+     "correct": false,
+     "_id": "c40d3abb-ffa7-a3dd-5575-8ba19dde168e"
+    },
+    {
+     "correct": true,
+     "answer": "Hard disk",
+     "_id": "38bb2098-252c-e9c0-e63c-35abca7be16c"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1291298925",
+  "source": {
+   "name": "Question 11: Which one of the following would be the most suitable for an organization to store its large database on?",
+   "showName": false,
+   "instructions": "**Question 11: Which one of the following would be the most suitable for an organization to store its large database on?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Memory stick",
+     "correct": false,
+     "_id": "04e50f1d-af46-eec0-32e5-d60ea5a95dd1"
+    },
+    {
+     "answer": "CD",
+     "correct": false,
+     "_id": "7164cfe6-d82f-8f92-1715-3067d7e5913c"
+    },
+    {
+     "answer": "DVD",
+     "correct": false,
+     "_id": "478c4bd8-dca8-2f36-2f2d-8154aa2d01cc"
+    },
+    {
+     "correct": true,
+     "answer": "Magnetic tape",
+     "_id": "988e5334-5aaf-0519-5a4f-be9282520b21"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3604313755",
+  "source": {
+   "name": "Question 12: Which one of the following would be the most suitable for a photographer store a large collection of photographs on?",
+   "showName": false,
+   "instructions": "**Question 12: Which one of the following would be the most suitable for a photographer store a large collection of photographs on?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Floppy disk",
+     "correct": false,
+     "_id": "01f5de3c-784d-7ef4-6c6a-26f3fa068fdb"
+    },
+    {
+     "answer": "Magnetic tape",
+     "correct": false,
+     "_id": "b2b66b62-7859-c816-12fa-4955a80587d1"
+    },
+    {
+     "correct": true,
+     "answer": "Large capacity memory card",
+     "_id": "0b1f1216-79db-9959-aa07-5f33ae52a144"
+    },
+    {
+     "answer": "CD",
+     "correct": false,
+     "_id": "edc5809e-6629-f847-0c97-5d0e039f10b6"
+    }
+   ]
+  }
+ }
+]
